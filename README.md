@@ -14,4 +14,4 @@ Some ideas for data transformations:
 Edit the HTML files in the /templates folder as needed to give directions and information to the user.
 
 # Sources
-Code adapted from <a href="https://medevel.com/flask-tutorial-upload-csv-file-and-insert-rows-into-the-database/">medevel.com</a> and <a href="https://buildcoding.com/upload-and-download-file-using-flask-in-python/">buildcoding.com
+Code adapted from <a href="https://medevel.com/flask-tutorial-upload-csv-file-and-insert-rows-into-the-database/">medevel.com</a> and <a href="https://buildcoding.com/upload-and-download-file-using-flask-in-python/">buildcoding.com .
